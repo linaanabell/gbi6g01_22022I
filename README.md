@@ -1,2 +1,14 @@
-# gbi6g01_22022I
-Repositorio del curso de Bioinformática Semestre 2022I
+# BIOINFORMATICA <gbi6g01_22022I>
+## DATOS PERSONALES
+- Iturralde, Lina
+- 22
+- Riobamba
+- Biotecnología
+
+## CARACTERÍSTICAS DEL EQUIPO
+- Procesador: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz   1.19 GHz
+
+## PROGRAMAS UTILIZADOS
+- GitBash v2.36.0
+- Github Desktop 3.0.0
+
